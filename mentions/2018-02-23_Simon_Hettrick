@@ -1,0 +1,18 @@
+date = '2018-02-23'
+authors = [
+  {  'name': 'Simon Hettrick'
+  },
+  { 'et al.' }
+]
+title = 'Software in research survey'
+url = 'https://doi.org/10.5281/zenodo.1183562'
+mentions = [
+  {'tags': ['survey', 'UK'],
+   'text': { 
+     '92% of academics use research software',
+     '69% say that their research would not be practical without it'
+     '56% develop their own software (worryingly, 21% of those have no training in software development)'
+     '70% of male researchers develop their own software, and only 30% of female researchers do so'
+     },
+  },
+]
