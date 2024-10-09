@@ -3,6 +3,12 @@ tags = [
   'funding',
   'USA',
 ]
-author = 'Dan Katz'
+authors = [
+  {  'name': 'Daniel S. Katz',
+     'orcid': '0000-0001-5934-7525',
+  },
+]
 url = 'https://www.nitrd.gov/nitrdgroups/images/6/65/HEC-Daniel-Katz-01162020.pdf'
-text = '"~20% of the overall NSF research budget" include software in their project abstract.'
+mentions = [
+  '"~20% of the overall NSF research budget" include software in their project abstract.',
+]
