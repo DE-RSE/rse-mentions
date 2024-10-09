@@ -4,6 +4,7 @@ authors = [
      'orcid': '0000-0001-5934-7525',
   },
 ]
+title = 'Research Software Sustainability'
 url = 'https://www.nitrd.gov/nitrdgroups/images/6/65/HEC-Daniel-Katz-01162020.pdf'
 mentions = [
   {'tags': ['funding', 'USA'],
